@@ -1,0 +1,6 @@
+.container-list {
+    flex-grow: 1;
+    height: 80vh;
+    padding: 0 10px;
+    overflow: auto;
+}
